@@ -1,7 +1,9 @@
 using System.Threading.Tasks;
 using RestSharp;
 
-namespace TravelClient2.Models
+namespace JuneProjClient.Models
 {
   class ApiHelper
   {
+  }
+}
